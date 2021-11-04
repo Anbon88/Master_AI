@@ -1,2 +1,2 @@
 # Master_AI
-Tareas desarrolladas a lo largo del máster
+Tareas desarrolladas a lo largo del máster de Intelligencia Artificial
